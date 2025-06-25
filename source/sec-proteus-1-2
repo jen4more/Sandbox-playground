@@ -15,7 +15,8 @@
 <exercises component="proteus" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="proteus-1-2" permid="ApM">
 <title>PROTEUS exercises</title>
     <p>
-    In part <xref ref="PA-1-1" text="type-global"/>, you explored the velocity of a ball at various times.  Answer the following questions to explore other rates of change.
+    As noted in <xref ref="PA-1-2" text="type-global"/>,  the introduction to Section 1.2, we are interested in studying the behavior of the output of a function as the input value gets closer and closer to a specific chosen number.  One way to visualize this process is to think about a person walking along the graph of a function, as pictured here:
+
     </p>
     <exercise component="proteus" label="proteus-rates-o-change"  xml:id="proteus-rates-o-change" attachment="yes">
         <p>
