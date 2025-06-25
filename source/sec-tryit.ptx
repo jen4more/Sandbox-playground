@@ -19,7 +19,7 @@
     </p>
     <exercise component="proteus" label="proteus-rates-o-change"  xml:id="proteus-rates-o-change" attachment="yes">
         <p>
-        For each of the following scenarios, specify the independent and dependent variables, along with possible units for both.  Then give units for the rate of change.
+        For each of the following scenarios, specify the independent/input and dependent/output variables, along with possible units for both.  Then give units for the rate of change.
         </p>
         <ol>
             <li>
