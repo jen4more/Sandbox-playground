@@ -55,6 +55,33 @@ var ptx_lunr_docs = [
   "body": " Give your own example of a quantity that changes over time, the units of the independent and dependent variables, and the rate of change.   "
 },
 {
+  "id": "proteus-1-2",
+  "level": "1",
+  "url": "proteus-1-2.html",
+  "type": "Exercises",
+  "number": "1.3",
+  "title": "PROTEUS exercises",
+  "body": " PROTEUS exercises  As noted in , we are interested in studying the behavior of the output of a function as the input value gets closer and closer to a specified chosen number. One way to visualize this process is to think about a tiny bug walking along the graph of a function, as pictured here:   Piecewise graph with point. .     g(x) = 3-(x+2)^2  h(x) = x+1  k(x) = 5-x  a = 0.6       f(x) = chi_oc(-5,-1,x)*g(x) + chi_co(-1,5,x)*h(x)  BUG             Focusing on the bug, the -value that the bug is directly above is the corresponding input value to the function, and the -value at the bug's height (directly across from the bug) is the corresponding output value of the function. In the figure here, the bug's position corresponds approximately to the point     If the bug walks along the curve in such a way that it gets closer and closer to the location where , what happens to the corresponding function value that corresponds to the bug's height? Does it matter if they approach the location where from either the left side or the right side of ? Discuss what you see in the picture.    Finally, what happens if the bug walks in such a way that the corresponding -value gets closer and closer to ? What do you notice about the corresponding output values in this case?     "
+},
+{
+  "id": "Fig-PA-1-2-und-limits",
+  "level": "2",
+  "url": "proteus-1-2.html#Fig-PA-1-2-und-limits",
+  "type": "Figure",
+  "number": "1.3.1",
+  "title": "",
+  "body": " Piecewise graph with point. .     g(x) = 3-(x+2)^2  h(x) = x+1  k(x) = 5-x  a = 0.6       f(x) = chi_oc(-5,-1,x)*g(x) + chi_co(-1,5,x)*h(x)  BUG         "
+},
+{
+  "id": "proteus-und-limits",
+  "level": "2",
+  "url": "proteus-1-2.html#proteus-und-limits",
+  "type": "Exercise",
+  "number": "1.3.1",
+  "title": "",
+  "body": "   Focusing on the bug, the -value that the bug is directly above is the corresponding input value to the function, and the -value at the bug's height (directly across from the bug) is the corresponding output value of the function. In the figure here, the bug's position corresponds approximately to the point     If the bug walks along the curve in such a way that it gets closer and closer to the location where , what happens to the corresponding function value that corresponds to the bug's height? Does it matter if they approach the location where from either the left side or the right side of ? Discuss what you see in the picture.    Finally, what happens if the bug walks in such a way that the corresponding -value gets closer and closer to ? What do you notice about the corresponding output values in this case?    "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
