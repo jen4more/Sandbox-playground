@@ -12,4 +12,5 @@
 
   <xi:include href="sec-tryit.ptx" />
 
+   <xi:include href="sec-proteus-1-2.ptx" /> 
 </chapter>
